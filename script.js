@@ -9,3 +9,6 @@ console.log(express)
 
 let needsShop = true
 console.log(needsShop)
+
+let item = prompt("What would you like to buy?")
+console.log(item)
